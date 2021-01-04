@@ -16,7 +16,7 @@
 <br />
 
 ### Languages and Tools:
-## R Python C++ SPSS Tableau SAS SQL PowerBI
+#### R Python C++ SPSS Tableau SAS SQL PowerBI
 
 [website]: amitbehurame.wordpress.com
 [linkedin]: https://www.linkedin.com/in/amit-behura-b53595142/
