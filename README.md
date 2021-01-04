@@ -1,6 +1,6 @@
 ### Hi there, I'm Amit - aka MAXSPYDER 👋
 
-## I'm an MBA student and trying to be a better listener
+## I'm an MBA student with marketing, systems and Operations 
 
 - 🌱 I’m currently learning everything related to Data science
 - 👯 I’m looking to collaborate with others
