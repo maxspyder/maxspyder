@@ -1,4 +1,4 @@
-### Hi there, I'm Amit - aka MAXSPYDER 👋
+### Hi there, I'm Amit 👋
 
 ## I'm an MBA student with marketing, systems and Operations 
 
