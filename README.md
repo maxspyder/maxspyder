@@ -1,6 +1,6 @@
 ### Hi there, I'm Amit 👋
 
-## I'm an MBA student with marketing, systems and Operations majors
+## I'm an Business Analyst with Systems & Operations Majors in MBA (XIMB,India)
 
 - 🌱 I’m currently learning everything related to Data science
 - 👯 I’m looking to collaborate with others
