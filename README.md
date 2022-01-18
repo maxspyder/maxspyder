@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning everything related to Data science
 - 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: compete in kaggle competitions and get better at it
-- ⚡ Fun fact: I am a hiphop dancer and graphic designer on break
 
 ### Connect with me:
 
